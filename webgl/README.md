@@ -2,4 +2,4 @@
 Current vertex+shader:
 
 
-![Rendered Canvas](triangle_strip.png)
+![Rendered Canvas](webgl-drawEle-cube-rotating.gif)
